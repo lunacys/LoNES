@@ -28,8 +28,6 @@ namespace LoNES.DesktopGL
             // TODO: Add your initialization logic here
             _mainScreen = new MainScreen(this);
             _screenManager = new ScreenManager();
-            
-            
 
             Components.Add(_screenManager);
 
